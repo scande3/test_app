@@ -6,7 +6,7 @@ issue is also present in 5.1.4.
 
 ## Installation
 
-First install the needed gems with are default for `5.2.0.beta2` and then two test mountable engines. To
+First install the needed gems with are default for `5.2.0 and then two test mountable engines. To
 install these gem dependencies and get the application ready to run, do:
 
 ```
